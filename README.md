@@ -9,7 +9,7 @@
 
 - 👯 I just finished collaborating on [an ecommerce made from scratch using the pern stack](https://front-wheat-gamma.vercel.app/)
 
-- 📫 How to reach me **zapicog@hotmail.com**
+- 📫 How to reach me **zapicog@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
